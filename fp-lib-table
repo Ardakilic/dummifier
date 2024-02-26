@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "dummifier")(type "KiCad")(uri "${KIPRJMOD}/footprints/dummifier.pretty")(options "")(descr ""))
+)
