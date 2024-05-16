@@ -33,7 +33,7 @@ I hope someone finds this helpful.
 
 ## Current status
 
-* Untested, so if you stumbled upon this, order with your own risk.
+* Tested, works nicely! Utilize only 5.1k resistors and 100nf cap (cap is optional). [Part from my Twitter flood, here](https://twitter.com/ardadev/status/1767934961703702860)
 * Also, please be aware of the license of the project.
 
 # Requirements
