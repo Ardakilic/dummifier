@@ -47,11 +47,13 @@ I hope someone finds this helpful.
 
 * Make VCC and GND lanes thicker.
 * Export Gerber files directly for factory-ready printing.
+* For better compatibility, [PCB design may need to be updated](https://www.reddit.com/r/UsbCHardware/comments/1ctkpf0/comment/l4fosnr/)
 
 # Special Thanks
 
 * [Ozkan Celik](https://github.com/ozkan). He helped me a lot during the design process and ideas.
 * Ender Piyale, I gave him a lot of headache as well.
+* Kazim Kaba, for case design.
 
 # License
 GNU GPL V3
